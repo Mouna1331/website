@@ -1,0 +1,27 @@
+@import url(buttons.css);
+@import url(banner.css);
+@import url(cards.css);
+@import url(footer.css);
+@import url(navbar.css);
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+h1{
+    margin-top: 0;
+}
+h2{
+    text-align: center;
+    color: lightgoldenrodyellow;
+}
+body{
+    margin: 0;
+    background-color: whitesmoke;
+    font-family: 'Bebas Neue', cursive;
+}
+a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+p{
+    font-size: bold;
+}

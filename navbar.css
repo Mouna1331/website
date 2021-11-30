@@ -1,0 +1,19 @@
+.navbar{
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    background-color:  slategrey;
+}
+.navbar img{
+    width: 200px;
+    border-radius: 45%;
+}
+.nav-menu{
+    list-style: none; 
+}
+.nav-items{
+    display: inline;
+    margin: 0 8px 0 8px;
+}

@@ -1,0 +1,40 @@
+.button-blue {
+    background-color:whitesmoke;
+    color:darkred;
+    font-weight: bold;
+    padding: 16px;
+    border-radius: 6px;
+    border: 1px grey;
+    margin: 24px auto;
+}
+.button-blue:hover {
+    background-color: white;
+    color: bisque;
+}
+
+.button-nav {
+    background-color:lightgrey;
+    color:white;
+    font-weight: bold;
+    padding: 16px;
+    border-radius: 6px;
+    border: 1px grey;
+    margin: 24px auto;
+}
+.button-nav:hover{
+    background-color: darkred;
+    color: ghostwhite;
+}
+.button-navs {
+    background-color:darkred;
+    color:white;
+    font-weight: bold;
+    padding: 16px;
+    border-radius: 6px;
+    border: 1px grey;
+    margin: 24px auto;
+}
+.button-navs:hover{
+    background-color: lightgray;
+    color: white;
+}
